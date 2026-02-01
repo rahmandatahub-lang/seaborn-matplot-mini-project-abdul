@@ -1,0 +1,301 @@
+﻿Order_ID,Customer_Gender,Region,Product_Category,Order_Amount,Quantity,Payment_Method,Order_Date
+1,Male,North,Electronics,3023,5,Credit Card,01-01-2024
+2,Female,North,Sports,2314,7,Debit Card,02-01-2024
+3,Male,East,Sports,4286,2,UPI,03-01-2024
+4,Male,South,Clothing,813,8,Credit Card,04-01-2024
+5,Male,South,Home,3702,2,Credit Card,05-01-2024
+6,Female,North,Home,4234,4,UPI,06-01-2024
+7,Male,West,Home,3622,1,Credit Card,07-01-2024
+8,Male,South,Sports,4368,5,Cash,08-01-2024
+9,Male,West,Sports,4848,9,UPI,09-01-2024
+10,Female,South,Sports,4949,1,UPI,10-01-2024
+11,Male,West,Electronics,1343,9,UPI,11-01-2024
+12,Male,East,Clothing,3809,8,Cash,12-01-2024
+13,Male,West,Sports,1181,6,UPI,13-01-2024
+14,Male,East,Clothing,555,7,Cash,14-01-2024
+15,Female,East,Clothing,994,3,UPI,15-01-2024
+16,Male,West,Home,1484,1,Debit Card,16-01-2024
+17,Female,East,Electronics,2058,5,Credit Card,17-01-2024
+18,Female,North,Sports,3172,2,Debit Card,18-01-2024
+19,Female,East,Home,2096,5,Credit Card,19-01-2024
+20,Male,South,Home,4385,8,Cash,20-01-2024
+21,Female,West,Sports,604,9,Debit Card,21-01-2024
+22,Male,North,Clothing,1314,2,UPI,22-01-2024
+23,Female,West,Home,1631,3,Credit Card,23-01-2024
+24,Female,South,Clothing,3540,3,Credit Card,24-01-2024
+25,Female,South,Electronics,923,1,Debit Card,25-01-2024
+26,Female,South,Clothing,1028,8,Cash,26-01-2024
+27,Female,East,Electronics,233,6,Debit Card,27-01-2024
+28,Female,East,Clothing,2205,8,Cash,28-01-2024
+29,Female,West,Home,3727,9,Cash,29-01-2024
+30,Female,West,Home,4880,5,Credit Card,30-01-2024
+31,Male,North,Electronics,1952,3,Debit Card,31-01-2024
+32,Male,North,Sports,4275,5,Debit Card,01-02-2024
+33,Female,West,Electronics,3033,5,Cash,02-02-2024
+34,Female,East,Electronics,3384,5,Debit Card,03-02-2024
+35,Female,South,Clothing,4398,3,UPI,04-02-2024
+36,Male,West,Clothing,2911,4,UPI,05-02-2024
+37,Female,North,Electronics,1350,9,Debit Card,06-02-2024
+38,Male,East,Home,3612,9,Debit Card,07-02-2024
+39,Male,West,Clothing,1356,2,Cash,08-02-2024
+40,Male,West,Sports,3476,8,UPI,09-02-2024
+41,Male,East,Clothing,3586,8,UPI,10-02-2024
+42,Male,West,Clothing,3684,7,Credit Card,11-02-2024
+43,Female,East,Sports,1496,8,Cash,12-02-2024
+44,Female,South,Electronics,3737,3,Credit Card,13-02-2024
+45,Female,East,Sports,3430,6,UPI,14-02-2024
+46,Female,East,Electronics,2803,1,Cash,15-02-2024
+47,Female,East,Electronics,570,7,Debit Card,16-02-2024
+48,Male,West,Electronics,1453,1,Cash,17-02-2024
+49,Female,West,Sports,2883,9,Debit Card,18-02-2024
+50,Female,East,Electronics,2931,1,Debit Card,19-02-2024
+51,Male,West,Home,457,1,Cash,20-02-2024
+52,Female,North,Sports,3119,7,Debit Card,21-02-2024
+53,Male,North,Home,767,2,Credit Card,22-02-2024
+54,Female,West,Electronics,4568,5,UPI,23-02-2024
+55,Male,West,Clothing,1245,8,Debit Card,24-02-2024
+56,Female,East,Electronics,4285,8,Credit Card,25-02-2024
+57,Female,South,Home,3819,3,Debit Card,26-02-2024
+58,Male,West,Home,2845,7,UPI,27-02-2024
+59,Male,North,Sports,639,3,Credit Card,28-02-2024
+60,Male,East,Clothing,2879,6,UPI,29-02-2024
+61,Male,West,Sports,4236,6,UPI,01-03-2024
+62,Male,North,Home,4935,3,Credit Card,02-03-2024
+63,Male,North,Electronics,3875,7,Credit Card,03-03-2024
+64,Male,South,Clothing,2608,3,Credit Card,04-03-2024
+65,Male,East,Electronics,2879,8,Cash,05-03-2024
+66,Female,East,Electronics,1024,4,Credit Card,06-03-2024
+67,Female,South,Clothing,3056,1,Credit Card,07-03-2024
+68,Male,South,Sports,1681,4,Credit Card,08-03-2024
+69,Female,East,Electronics,3424,7,Credit Card,09-03-2024
+70,Female,East,Home,4585,4,Debit Card,10-03-2024
+71,Female,West,Electronics,355,6,Cash,11-03-2024
+72,Female,West,Clothing,4904,9,UPI,12-03-2024
+73,Male,South,Clothing,1938,1,Credit Card,13-03-2024
+74,Female,West,Clothing,2044,5,Debit Card,14-03-2024
+75,Male,North,Sports,109,7,Debit Card,15-03-2024
+76,Female,West,Electronics,2971,1,Debit Card,16-03-2024
+77,Female,West,Sports,897,4,UPI,17-03-2024
+78,Female,North,Sports,1115,6,Credit Card,18-03-2024
+79,Male,South,Clothing,1924,2,Cash,19-03-2024
+80,Female,North,Clothing,4569,5,Cash,20-03-2024
+81,Male,West,Sports,3236,1,Debit Card,21-03-2024
+82,Female,South,Electronics,2293,6,UPI,22-03-2024
+83,Male,West,Home,323,6,UPI,23-03-2024
+84,Female,North,Sports,4258,4,UPI,24-03-2024
+85,Male,North,Electronics,4025,8,Cash,25-03-2024
+86,Male,West,Clothing,4884,4,Debit Card,26-03-2024
+87,Female,East,Clothing,4100,8,Credit Card,27-03-2024
+88,Male,East,Electronics,1733,8,Cash,28-03-2024
+89,Female,North,Home,2252,5,Debit Card,29-03-2024
+90,Female,North,Clothing,610,4,Debit Card,30-03-2024
+91,Female,East,Clothing,484,2,Credit Card,31-03-2024
+92,Female,East,Clothing,504,3,Credit Card,01-04-2024
+93,Female,West,Electronics,4713,3,Credit Card,02-04-2024
+94,Female,West,Sports,4671,4,UPI,03-04-2024
+95,Female,East,Clothing,2100,4,Credit Card,04-04-2024
+96,Female,West,Sports,2856,5,Debit Card,05-04-2024
+97,Female,West,Home,1768,4,Credit Card,06-04-2024
+98,Female,South,Clothing,1560,8,Debit Card,07-04-2024
+99,Female,West,Clothing,3736,6,Cash,08-04-2024
+100,Male,North,Home,2824,6,UPI,09-04-2024
+101,Male,West,Clothing,4909,8,Cash,10-04-2024
+102,Female,West,Sports,4278,7,Cash,11-04-2024
+103,Female,East,Electronics,2148,8,Debit Card,12-04-2024
+104,Female,North,Sports,4246,2,Cash,13-04-2024
+105,Female,West,Electronics,4880,9,Debit Card,14-04-2024
+106,Female,West,Electronics,816,1,Credit Card,15-04-2024
+107,Female,South,Sports,4644,8,Credit Card,16-04-2024
+108,Female,West,Sports,4683,4,Debit Card,17-04-2024
+109,Female,West,Sports,1923,4,Credit Card,18-04-2024
+110,Male,South,Sports,2181,5,UPI,19-04-2024
+111,Female,East,Home,3519,8,Cash,20-04-2024
+112,Male,West,Clothing,1674,5,UPI,21-04-2024
+113,Female,South,Electronics,349,8,Cash,22-04-2024
+114,Female,North,Sports,773,1,Credit Card,23-04-2024
+115,Male,East,Sports,4633,9,UPI,24-04-2024
+116,Female,North,Sports,2265,6,Credit Card,25-04-2024
+117,Male,North,Home,870,3,Cash,26-04-2024
+118,Female,South,Sports,4062,8,Debit Card,27-04-2024
+119,Female,West,Sports,4463,9,Debit Card,28-04-2024
+120,Male,South,Sports,2084,6,UPI,29-04-2024
+121,Female,South,Clothing,1177,7,Credit Card,30-04-2024
+122,Male,South,Home,335,1,Credit Card,01-05-2024
+123,Female,South,Sports,488,5,UPI,02-05-2024
+124,Male,East,Electronics,3137,5,Debit Card,03-05-2024
+125,Male,West,Electronics,4958,4,Cash,04-05-2024
+126,Female,North,Electronics,1948,6,UPI,05-05-2024
+127,Female,North,Home,4819,7,Cash,06-05-2024
+128,Male,West,Home,2914,9,Debit Card,07-05-2024
+129,Female,North,Electronics,3474,1,Credit Card,08-05-2024
+130,Female,West,Sports,3378,6,Debit Card,09-05-2024
+131,Female,North,Home,1352,7,UPI,10-05-2024
+132,Male,South,Electronics,4081,3,Credit Card,11-05-2024
+133,Male,North,Electronics,4773,8,UPI,12-05-2024
+134,Male,West,Sports,2222,5,UPI,13-05-2024
+135,Male,West,Clothing,4630,9,Debit Card,14-05-2024
+136,Male,West,Home,2250,5,UPI,15-05-2024
+137,Male,West,Sports,4959,9,Debit Card,16-05-2024
+138,Male,West,Electronics,1429,4,Credit Card,17-05-2024
+139,Male,East,Electronics,1458,9,Debit Card,18-05-2024
+140,Male,East,Sports,2582,5,Credit Card,19-05-2024
+141,Female,North,Home,4642,9,Debit Card,20-05-2024
+142,Male,West,Clothing,2117,3,Cash,21-05-2024
+143,Female,North,Clothing,1431,4,Cash,22-05-2024
+144,Female,West,Electronics,4444,9,UPI,23-05-2024
+145,Female,West,Home,4361,6,Debit Card,24-05-2024
+146,Male,East,Clothing,1458,2,Debit Card,25-05-2024
+147,Male,East,Home,4737,7,Credit Card,26-05-2024
+148,Male,South,Home,4954,2,UPI,27-05-2024
+149,Male,East,Electronics,3277,2,Debit Card,28-05-2024
+150,Female,South,Clothing,2228,1,UPI,29-05-2024
+151,Male,South,Sports,2280,3,Cash,30-05-2024
+152,Male,South,Electronics,4992,6,Debit Card,31-05-2024
+153,Male,South,Clothing,237,8,Debit Card,01-06-2024
+154,Male,South,Clothing,3572,9,UPI,02-06-2024
+155,Male,North,Clothing,2932,7,Debit Card,03-06-2024
+156,Female,East,Clothing,3679,4,UPI,04-06-2024
+157,Male,South,Clothing,3131,6,Debit Card,05-06-2024
+158,Female,West,Home,4264,5,Credit Card,06-06-2024
+159,Male,East,Electronics,2693,8,UPI,07-06-2024
+160,Female,East,Home,4400,1,Debit Card,08-06-2024
+161,Male,South,Sports,3918,1,Cash,09-06-2024
+162,Male,North,Clothing,4238,6,Debit Card,10-06-2024
+163,Female,South,Electronics,3923,2,Cash,11-06-2024
+164,Female,North,Clothing,4142,5,Cash,12-06-2024
+165,Female,West,Electronics,2006,1,Credit Card,13-06-2024
+166,Male,East,Home,860,7,UPI,14-06-2024
+167,Female,West,Electronics,3545,1,Debit Card,15-06-2024
+168,Male,North,Sports,999,4,Credit Card,16-06-2024
+169,Male,North,Sports,4555,9,Debit Card,17-06-2024
+170,Female,West,Electronics,3047,1,Cash,18-06-2024
+171,Female,North,Electronics,1819,4,UPI,19-06-2024
+172,Male,West,Electronics,380,6,Debit Card,20-06-2024
+173,Male,East,Electronics,3366,6,Debit Card,21-06-2024
+174,Female,West,Sports,1987,8,Cash,22-06-2024
+175,Female,East,Clothing,3366,1,Debit Card,23-06-2024
+176,Female,West,Electronics,766,7,Debit Card,24-06-2024
+177,Male,North,Electronics,4288,1,Cash,25-06-2024
+178,Male,West,Sports,771,7,Credit Card,26-06-2024
+179,Male,North,Sports,2069,3,Cash,27-06-2024
+180,Male,West,Home,4256,8,Credit Card,28-06-2024
+181,Male,West,Electronics,3222,3,UPI,29-06-2024
+182,Male,South,Home,4799,1,Credit Card,30-06-2024
+183,Female,North,Sports,4877,8,Credit Card,01-07-2024
+184,Male,South,Sports,4000,3,UPI,02-07-2024
+185,Male,North,Clothing,623,2,Credit Card,03-07-2024
+186,Male,South,Electronics,2493,1,Cash,04-07-2024
+187,Female,East,Home,3217,3,Credit Card,05-07-2024
+188,Male,West,Sports,2693,2,UPI,06-07-2024
+189,Male,North,Sports,2068,2,Cash,07-07-2024
+190,Female,North,Home,1853,6,UPI,08-07-2024
+191,Male,West,Clothing,2396,1,UPI,09-07-2024
+192,Male,North,Sports,2361,2,Debit Card,10-07-2024
+193,Male,North,Electronics,2386,6,Debit Card,11-07-2024
+194,Male,South,Sports,4302,3,UPI,12-07-2024
+195,Male,North,Electronics,2978,4,UPI,13-07-2024
+196,Female,East,Home,4243,1,UPI,14-07-2024
+197,Female,East,Electronics,3744,8,Debit Card,15-07-2024
+198,Female,West,Home,4532,7,Debit Card,16-07-2024
+199,Male,North,Electronics,2155,7,Credit Card,17-07-2024
+200,Male,West,Home,4820,3,Credit Card,18-07-2024
+201,Male,East,Electronics,1376,3,UPI,19-07-2024
+202,Female,North,Clothing,2866,2,Cash,20-07-2024
+203,Male,North,Electronics,402,1,Cash,21-07-2024
+204,Male,West,Electronics,738,7,Debit Card,22-07-2024
+205,Female,East,Clothing,155,7,Debit Card,23-07-2024
+206,Male,North,Sports,4921,2,Debit Card,24-07-2024
+207,Female,West,Sports,625,7,UPI,25-07-2024
+208,Female,East,Electronics,4669,8,Cash,26-07-2024
+209,Female,West,Clothing,4223,1,Credit Card,27-07-2024
+210,Male,South,Electronics,2225,9,UPI,28-07-2024
+211,Male,North,Home,3387,7,Credit Card,29-07-2024
+212,Male,South,Home,464,3,Credit Card,30-07-2024
+213,Male,East,Electronics,4721,8,UPI,31-07-2024
+214,Male,South,Sports,1746,7,Credit Card,01-08-2024
+215,Male,South,Sports,1018,8,Cash,02-08-2024
+216,Male,East,Electronics,2897,6,Credit Card,03-08-2024
+217,Female,West,Electronics,1631,9,Cash,04-08-2024
+218,Male,South,Home,3445,5,Cash,05-08-2024
+219,Female,West,Sports,2006,3,Cash,06-08-2024
+220,Male,South,Electronics,3186,3,Debit Card,07-08-2024
+221,Male,West,Home,4680,1,Credit Card,08-08-2024
+222,Male,East,Sports,2175,8,UPI,09-08-2024
+223,Female,South,Clothing,813,2,UPI,10-08-2024
+224,Female,East,Home,1162,3,Credit Card,11-08-2024
+225,Female,South,Sports,2076,8,Debit Card,12-08-2024
+226,Female,East,Sports,1396,8,Debit Card,13-08-2024
+227,Male,East,Home,225,4,Cash,14-08-2024
+228,Female,South,Clothing,4732,4,Credit Card,15-08-2024
+229,Male,South,Home,3696,5,Credit Card,16-08-2024
+230,Male,South,Sports,3383,6,UPI,17-08-2024
+231,Female,North,Electronics,1703,5,Credit Card,18-08-2024
+232,Female,West,Electronics,166,7,Debit Card,19-08-2024
+233,Female,North,Home,332,2,Credit Card,20-08-2024
+234,Female,North,Sports,2256,7,UPI,21-08-2024
+235,Female,East,Electronics,1269,7,Cash,22-08-2024
+236,Female,South,Sports,2258,1,UPI,23-08-2024
+237,Female,West,Home,4306,7,UPI,24-08-2024
+238,Female,East,Electronics,1593,5,Cash,25-08-2024
+239,Male,North,Sports,4818,3,UPI,26-08-2024
+240,Female,South,Electronics,4107,3,UPI,27-08-2024
+241,Female,East,Home,2572,4,Credit Card,28-08-2024
+242,Male,South,Sports,2760,2,Credit Card,29-08-2024
+243,Female,East,Electronics,2839,2,Cash,30-08-2024
+244,Male,South,Home,1861,1,Credit Card,31-08-2024
+245,Male,North,Electronics,3614,5,Credit Card,01-09-2024
+246,Female,West,Electronics,2075,4,UPI,02-09-2024
+247,Male,North,Clothing,2462,2,Debit Card,03-09-2024
+248,Male,West,Clothing,976,3,Credit Card,04-09-2024
+249,Male,South,Home,3912,7,Debit Card,05-09-2024
+250,Male,East,Clothing,3548,7,Credit Card,06-09-2024
+251,Female,North,Home,1412,4,Credit Card,07-09-2024
+252,Male,West,Clothing,1560,5,Cash,08-09-2024
+253,Female,North,Electronics,2809,5,Cash,09-09-2024
+254,Male,West,Home,2424,6,Cash,10-09-2024
+255,Male,North,Home,1833,9,Debit Card,11-09-2024
+256,Male,West,Electronics,1705,2,UPI,12-09-2024
+257,Male,West,Home,2663,5,Credit Card,13-09-2024
+258,Female,South,Home,3521,3,Credit Card,14-09-2024
+259,Female,West,Clothing,3617,4,Credit Card,15-09-2024
+260,Male,South,Home,2497,6,Debit Card,16-09-2024
+261,Male,West,Sports,3835,8,Cash,17-09-2024
+262,Female,East,Electronics,2970,1,UPI,18-09-2024
+263,Male,East,Clothing,1260,8,Debit Card,19-09-2024
+264,Male,East,Clothing,4954,7,Cash,20-09-2024
+265,Male,West,Sports,342,1,Debit Card,21-09-2024
+266,Female,South,Electronics,2690,2,UPI,22-09-2024
+267,Female,South,Electronics,1163,3,Cash,23-09-2024
+268,Female,West,Clothing,4424,1,Debit Card,24-09-2024
+269,Male,East,Home,2695,9,UPI,25-09-2024
+270,Male,East,Clothing,1019,8,Credit Card,26-09-2024
+271,Female,South,Electronics,105,2,UPI,27-09-2024
+272,Female,East,Sports,567,9,Credit Card,28-09-2024
+273,Female,North,Clothing,4270,7,Debit Card,29-09-2024
+274,Female,South,Electronics,103,9,Cash,30-09-2024
+275,Male,East,Clothing,745,6,Cash,01-10-2024
+276,Female,South,Home,217,6,Debit Card,02-10-2024
+277,Male,North,Clothing,3028,4,Cash,03-10-2024
+278,Female,South,Clothing,2651,2,Cash,04-10-2024
+279,Male,South,Electronics,4389,7,Credit Card,05-10-2024
+280,Female,South,Electronics,946,5,Debit Card,06-10-2024
+281,Female,South,Electronics,2862,6,UPI,07-10-2024
+282,Female,North,Clothing,1241,2,Credit Card,08-10-2024
+283,Female,West,Home,1910,5,Debit Card,09-10-2024
+284,Male,South,Sports,823,4,Credit Card,10-10-2024
+285,Female,South,Sports,324,9,UPI,11-10-2024
+286,Male,East,Electronics,4727,6,UPI,12-10-2024
+287,Male,South,Electronics,4308,2,Debit Card,13-10-2024
+288,Male,East,Clothing,4754,1,UPI,14-10-2024
+289,Male,West,Sports,2148,5,Credit Card,15-10-2024
+290,Female,North,Electronics,4849,9,UPI,16-10-2024
+291,Male,North,Home,4515,6,Credit Card,17-10-2024
+292,Male,West,Home,1673,7,Credit Card,18-10-2024
+293,Male,North,Electronics,1928,5,UPI,19-10-2024
+294,Female,West,Electronics,2017,6,Debit Card,20-10-2024
+295,Female,West,Sports,4334,5,Cash,21-10-2024
+296,Female,West,Sports,2126,9,UPI,22-10-2024
+297,Female,North,Clothing,3844,6,Credit Card,23-10-2024
+298,Male,East,Sports,1001,8,Credit Card,24-10-2024
+299,Male,West,Home,4885,2,UPI,25-10-2024
+300,Female,South,Home,2139,9,Debit Card,26-10-2024
